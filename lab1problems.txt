@@ -23,7 +23,7 @@ after the prompt.  For example:
     applicable command for searching for a particular word.  Note that
     the related word "hexadecimal" does NOT count.
 1.answer)
-
+23
 
 ---Values of Different Bases---
 
@@ -40,27 +40,27 @@ For example:
 
 3.) In binary, how much is a 1 in position 4 worth?
 3.answer)
-
+2^4
 
 4.) In octal, how much is a 1 in position 4 worth?
 4.answer)
-
+8^4
 
 5.) In hexadecimal, how much is a 1 in position 4 worth?
 5.answer)
-
+16^4
 
 6.) In hexadecimal, how much is a 2 in position 4 worth?
 6.answer)
-
+2*16^4
 
 7.) In hexadecimal, how much is a B in position 4 worth?
 7.answer)
-
+11*16^4
 
 8.) In hexadecimal, how much is a 9 in position 5 worth?
 8.answer)
-
+9*16^5
 
 
 ---Converting Positive decimal to Binary---
@@ -75,19 +75,19 @@ bits.  For example:
 
 10.) Convert decimal 15 into binary.
 10.answer)
-
+00001111
 
 11.) Convert decimal 2 into binary.
 11.answer)
-
+00000010
 
 12.) Convert decimal 8 into binary.
 12.answer)
-
+00001000
 
 13.) Convert decimal 65 into binary.
 13.answer)
-
+01000001
 
 
 ---Converting Binary to decimal---
@@ -101,19 +101,19 @@ For example:
 
 15.) Convert binary 1000 into decimal.
 15.answer)
-
+8
 
 16.) Convert binary 1001 into decimal.
 16.answer)
-
+9
 
 17.) Convert binary 1111 into decimal.
 17.answer)
-
+15
 
 18.) Convert binary 1101 into decimal.
 18.answer)
-
+13
 
 
 ---Converting decimal to Hexadecimal---
@@ -128,19 +128,19 @@ to indicate that the number is in hexadecimal.  For example:
 
 20.) Convert decimal 16 into hexadecimal.
 20.answer)
-
+0x10
 
 21.) Convert decimal 65 into hexadecimal.
 21.answer)
-
+0x41
 
 22.) Convert decimal 31 into hexadecimal.
 22.answer)
-
+0x1F
 
 23.) Convert decimal 166 into hexadecimal.
 23.answer)
-
+0xA6
 
 
 ---Bit Positions---
@@ -158,16 +158,16 @@ For example:
 
 26.) The rightmost bit of a 16-bit number is in what position?
 26.answer)
-
+0
 
 27.) The leftmost bit of a 16-bit number is in what position?
 27.answer)
-
+15
 
 28.) What is the 4-bit binary number that contains a 0 in all
      positions except for position 2?
 28.answer)
-
+4
 
 ---Terminology---
 
@@ -175,8 +175,8 @@ You may need to use Google for these terms.
 
 29.) How many bits are in a byte?
 29.answer)
-
+8
 
 30.) How many bits are in a nibble?
 30.answer)
-
+4
