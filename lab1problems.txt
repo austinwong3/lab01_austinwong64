@@ -167,7 +167,7 @@ For example:
 28.) What is the 4-bit binary number that contains a 0 in all
      positions except for position 2?
 28.answer)
-4
+4 in decimal (0100 in binary)
 
 ---Terminology---
 
